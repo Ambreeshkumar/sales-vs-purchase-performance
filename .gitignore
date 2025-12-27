@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+logs/
+sqlite/
+invetory/
+data/
+*.db
+*.csv
+vendor_sales_summary.csv
